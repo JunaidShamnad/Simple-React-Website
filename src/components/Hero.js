@@ -5,7 +5,7 @@ import styled from 'styled-components'
 const Section =styled.section`
     background:url(${({image}) => image && image}) center;
     height: 100vh;
-    object-fit: cover;
+    /* object-fit: cover; */
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
