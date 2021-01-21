@@ -18,6 +18,8 @@ const Section =styled.section`
 const Container =styled.div`
     color: #fff;
     padding:2rem;
+    width: 60%;
+    height:290px;
     backdrop-filter:blur(5px);
     background-color:rgba(0,0,0,0.4);
     margin:2rem;
